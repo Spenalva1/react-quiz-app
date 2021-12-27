@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://react-quiz-app.vercel.app/">
+    <a href="https://react-quiz-app-nu.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -28,7 +28,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8) was to build an application to complete the given user stories.
+This application/site was created as a variant to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8) was to build an application to complete the given user stories. Instead of making questions of countries, the app fetch the questions from [Open Trivia DB](https://opentdb.com/)
 
 ## How To Use
 
